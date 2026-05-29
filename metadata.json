@@ -1,0 +1,8 @@
+{
+  "name": "Satyam UPvC Workspace",
+  "description": "Interactive workspace for Satyam UPvC sales presentations, dimensions, structural validation, and quotation generation.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
